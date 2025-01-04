@@ -1,0 +1,8 @@
+langchain
+huggingface_hub
+datasets
+spacy
+sentence-transformers
+scikit-learn
+numpy
+regex
